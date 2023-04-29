@@ -1,3 +1,4 @@
+![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm Joaco!</h1>
 <h3 align="center">🚀 Front-end Developer and Digital Communication student</h3>
 
