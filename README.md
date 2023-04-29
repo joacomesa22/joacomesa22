@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joaquin Mesa</h1>
 <h3 align="center">🚀 Front-end Developer and Digital Communication student</h3>
 
-- ⚡️ Bio... **I'm 20 years old and I'm from Buenos Aires, Argentina 🇦🇷**
+- ⚡️ **I'm 20 years old and I'm from Buenos Aires, Argentina 🇦🇷**
 
-- 📨 Contact me... **joacomesa@gmail.com**
+- 📨 **joacomesa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
