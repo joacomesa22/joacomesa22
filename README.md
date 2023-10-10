@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Joaco!</h1>
 <h3 align="center">🚀 Front-end Developer and Digital Communication student</h3>
 
-- ⚡️  **I'm 20 years old and I'm from Buenos Aires, Argentina 🇦🇷**
+- ⚡️  **I'm 21 years old and I'm from Buenos Aires, Argentina 🇦🇷**
 
 - 📨  **joacomesa@gmail.com**
 
