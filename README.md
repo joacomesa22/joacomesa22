@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML">
+  <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML">
     <img
       src="https://skillicons.dev/icons?i=html"
       height="40"
@@ -45,11 +45,14 @@
     />
   </a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
   </a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+  <a
+    target="_blank"
+    href="https://developer.mozilla.org/es/docs/Web/JavaScript"
+  >
     <img
       src="https://skillicons.dev/icons?i=js"
       height="40"
@@ -57,7 +60,7 @@
     />
   </a>
   <img width="12" />
-  <a href="https://react.dev/">
+  <a target="_blank" href="https://react.dev/">
     <img
       src="https://skillicons.dev/icons?i=react"
       height="40"
@@ -65,7 +68,7 @@
     />
   </a>
   <img width="12" />
-  <a href="https://tailwindcss.com/">
+  <a target="_blank" href="https://tailwindcss.com/">
     <img
       src="https://skillicons.dev/icons?i=tailwind"
       height="40"
@@ -73,7 +76,7 @@
     />
   </a>
   <img width="12" />
-  <a href="https://getbootstrap.com/">
+  <a target="_blank" href="https://getbootstrap.com/">
     <img
       src="https://skillicons.dev/icons?i=bootstrap"
       height="40"
@@ -81,7 +84,7 @@
     />
   </a>
   <img width="12" />
-  <a href="https://sass-lang.com/">
+  <a target="_blank" href="https://sass-lang.com/">
     <img
       src="https://skillicons.dev/icons?i=sass"
       height="40"
@@ -89,7 +92,7 @@
     />
   </a>
   <img width="12" />
-  <a href="https://astro.build/https://astro.build/">
+  <a target="_blank" href="https://astro.build/https://astro.build/">
     <img
       src="https://skillicons.dev/icons?i=astro"
       height="40"
@@ -97,7 +100,7 @@
     />
   </a>
   <img width="12" />
-  <a href="https://nextjs.org/">
+  <a target="_blank" href="https://nextjs.org/">
     <img
       src="https://skillicons.dev/icons?i=nextjs"
       height="40"
@@ -109,7 +112,7 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/">
+  <a target="_blank" href="https://github.com/">
     <img
       src="https://skillicons.dev/icons?i=github"
       height="40"
@@ -117,11 +120,11 @@
     />
   </a>
   <img width="12" />
-  <a href="https://git-scm.com/">
+  <a target="_blank" href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   </a>
   <img width="12" />
-  <a href="https://firebase.google.com/?hl=es">
+  <a target="_blank" href="https://firebase.google.com/?hl=es">
     <img
       src="https://skillicons.dev/icons?i=firebase"
       height="40"
@@ -129,7 +132,7 @@
     />
   </a>
   <img width="12" />
-  <a href="https://www.figma.com/">
+  <a target="_blank" href="https://www.figma.com/">
     <img
       src="https://skillicons.dev/icons?i=figma"
       height="40"
@@ -137,7 +140,7 @@
     />
   </a>
   <img width="12" />
-  <a href="https://www.adobe.com/ar/products/photoshop.html">
+  <a target="_blank" href="https://www.adobe.com/ar/products/photoshop.html">
     <img
       src="https://skillicons.dev/icons?i=ps"
       height="40"
@@ -145,7 +148,7 @@
     />
   </a>
   <img width="12" />
-  <a href="https://wordpress.org/">
+  <a target="_blank" href="https://wordpress.org/">
     <img
       src="https://skillicons.dev/icons?i=wordpress"
       height="40"
@@ -153,6 +156,5 @@
     />
   </a>
 </div>
-
 
 ###
