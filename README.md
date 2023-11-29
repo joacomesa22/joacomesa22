@@ -37,7 +37,9 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5"> 
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  </a>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
