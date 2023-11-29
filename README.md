@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
+  <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML">
     <img
       src="https://skillicons.dev/icons?i=html"
       height="40"
